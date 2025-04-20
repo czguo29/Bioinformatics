@@ -1,0 +1,9 @@
+[package]
+name = "Experiment_1-1-1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bio = "2.0.3"
+rayon = "1.10.0"
+pyo3 = { version = "0.23.5", features = ["extension-module"] }
