@@ -1,0 +1,10 @@
+[package]
+name = "experiment221"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bio = "2.0.3"
+nalgebra = "0.33.2"
+ndarray = "0.16.1"
+rayon = "1.10.0"
