@@ -1,0 +1,18 @@
+{
+  "variants": [
+    {
+      "chrom": "chr1",
+      "pos": 12345,
+      "ref_base": "A",
+      "alt_base": "G",
+      "score": 42.0
+    },
+    {
+      "chrom": "chr1",
+      "pos": 12345,
+      "ref_base": "A",
+      "alt_base": "G",
+      "score": 42.0
+    }
+  ]
+}

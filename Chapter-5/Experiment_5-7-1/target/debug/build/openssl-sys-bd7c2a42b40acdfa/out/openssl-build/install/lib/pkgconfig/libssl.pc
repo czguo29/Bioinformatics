@@ -1,0 +1,11 @@
+prefix=/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 5/Experiment_5-7-1/target/debug/build/openssl-sys-bd7c2a42b40acdfa/out/openssl-build/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include 
+
+Name: OpenSSL-libssl
+Description: Secure Sockets Layer and cryptography libraries
+Version: 3.5.0
+Requires.private: libcrypto
+Libs: -L${libdir} -lssl
+Cflags: -I${includedir}
