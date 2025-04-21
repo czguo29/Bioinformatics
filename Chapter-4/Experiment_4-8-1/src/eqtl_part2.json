@@ -1,0 +1,22 @@
+[
+    { "snp_id": "rs10101", "gene_id": "GENE21", "p_value": 0.0093 },
+    { "snp_id": "rs11223", "gene_id": "GENE22", "p_value": 0.0084 },
+    { "snp_id": "rs22334", "gene_id": "GENE23", "p_value": 0.0150 },
+    { "snp_id": "rs33445", "gene_id": "GENE24", "p_value": 0.0273 },
+    { "snp_id": "rs44556", "gene_id": "GENE25", "p_value": 0.0114 },
+    { "snp_id": "rs55667", "gene_id": "GENE26", "p_value": 0.0398 },
+    { "snp_id": "rs66778", "gene_id": "GENE27", "p_value": 0.0294 },
+    { "snp_id": "rs77889", "gene_id": "GENE28", "p_value": 0.0241 },
+    { "snp_id": "rs88990", "gene_id": "GENE29", "p_value": 0.0021 },
+    { "snp_id": "rs99001", "gene_id": "GENE30", "p_value": 0.0197 },
+    { "snp_id": "rs10123", "gene_id": "GENE31", "p_value": 0.0305 },
+    { "snp_id": "rs11234", "gene_id": "GENE32", "p_value": 0.0259 },
+    { "snp_id": "rs22345", "gene_id": "GENE33", "p_value": 0.0147 },
+    { "snp_id": "rs33456", "gene_id": "GENE34", "p_value": 0.0203 },
+    { "snp_id": "rs44567", "gene_id": "GENE35", "p_value": 0.0211 },
+    { "snp_id": "rs55678", "gene_id": "GENE36", "p_value": 0.0372 },
+    { "snp_id": "rs66789", "gene_id": "GENE37", "p_value": 0.0189 },
+    { "snp_id": "rs77890", "gene_id": "GENE38", "p_value": 0.0128 },
+    { "snp_id": "rs88901", "gene_id": "GENE39", "p_value": 0.0145 },
+    { "snp_id": "rs99012", "gene_id": "GENE40", "p_value": 0.0217 }
+]

@@ -1,0 +1,22 @@
+[
+    { "chrom": "chr1", "position": 1000, "motif_id": "MOTIF001" },
+    { "chrom": "chr1", "position": 2000, "motif_id": "MOTIF002" },
+    { "chrom": "chr2", "position": 3000, "motif_id": "MOTIF003" },
+    { "chrom": "chr2", "position": 4000, "motif_id": "MOTIF004" },
+    { "chrom": "chr3", "position": 5000, "motif_id": "MOTIF005" },
+    { "chrom": "chr3", "position": 6000, "motif_id": "MOTIF006" },
+    { "chrom": "chr4", "position": 7000, "motif_id": "MOTIF007" },
+    { "chrom": "chr4", "position": 8000, "motif_id": "MOTIF008" },
+    { "chrom": "chr5", "position": 9000, "motif_id": "MOTIF009" },
+    { "chrom": "chr5", "position": 10000, "motif_id": "MOTIF010" },
+    { "chrom": "chr6", "position": 11000, "motif_id": "MOTIF011" },
+    { "chrom": "chr6", "position": 12000, "motif_id": "MOTIF012" },
+    { "chrom": "chr7", "position": 13000, "motif_id": "MOTIF013" },
+    { "chrom": "chr7", "position": 14000, "motif_id": "MOTIF014" },
+    { "chrom": "chr8", "position": 15000, "motif_id": "MOTIF015" },
+    { "chrom": "chr8", "position": 16000, "motif_id": "MOTIF016" },
+    { "chrom": "chr9", "position": 17000, "motif_id": "MOTIF017" },
+    { "chrom": "chr9", "position": 18000, "motif_id": "MOTIF018" },
+    { "chrom": "chr10", "position": 19000, "motif_id": "MOTIF019" },
+    { "chrom": "chr10", "position": 20000, "motif_id": "MOTIF020" }
+]

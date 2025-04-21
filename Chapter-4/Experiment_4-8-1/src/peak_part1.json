@@ -1,0 +1,22 @@
+[
+    { "chrom": "chr1", "start": 1000, "end": 1100, "peak_id": "PEAK001" },
+    { "chrom": "chr1", "start": 2000, "end": 2100, "peak_id": "PEAK002" },
+    { "chrom": "chr2", "start": 3000, "end": 3100, "peak_id": "PEAK003" },
+    { "chrom": "chr2", "start": 4000, "end": 4100, "peak_id": "PEAK004" },
+    { "chrom": "chr3", "start": 5000, "end": 5100, "peak_id": "PEAK005" },
+    { "chrom": "chr3", "start": 6000, "end": 6100, "peak_id": "PEAK006" },
+    { "chrom": "chr4", "start": 7000, "end": 7100, "peak_id": "PEAK007" },
+    { "chrom": "chr4", "start": 8000, "end": 8100, "peak_id": "PEAK008" },
+    { "chrom": "chr5", "start": 9000, "end": 9100, "peak_id": "PEAK009" },
+    { "chrom": "chr5", "start": 10000, "end": 10100, "peak_id": "PEAK010" },
+    { "chrom": "chr6", "start": 11000, "end": 11100, "peak_id": "PEAK011" },
+    { "chrom": "chr6", "start": 12000, "end": 12100, "peak_id": "PEAK012" },
+    { "chrom": "chr7", "start": 13000, "end": 13100, "peak_id": "PEAK013" },
+    { "chrom": "chr7", "start": 14000, "end": 14100, "peak_id": "PEAK014" },
+    { "chrom": "chr8", "start": 15000, "end": 15100, "peak_id": "PEAK015" },
+    { "chrom": "chr8", "start": 16000, "end": 16100, "peak_id": "PEAK016" },
+    { "chrom": "chr9", "start": 17000, "end": 17100, "peak_id": "PEAK017" },
+    { "chrom": "chr9", "start": 18000, "end": 18100, "peak_id": "PEAK018" },
+    { "chrom": "chr10", "start": 19000, "end": 19100, "peak_id": "PEAK019" },
+    { "chrom": "chr10", "start": 20000, "end": 20100, "peak_id": "PEAK020" }
+]

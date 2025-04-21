@@ -1,0 +1,282 @@
+[
+  {
+    "snp_id": "rs12345",
+    "gene_id": "GENE1",
+    "p_value": 0.0012,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs23456",
+    "gene_id": "GENE2",
+    "p_value": 0.0056,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs34567",
+    "gene_id": "GENE3",
+    "p_value": 0.0234,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs45678",
+    "gene_id": "GENE4",
+    "p_value": 0.0008,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs56789",
+    "gene_id": "GENE5",
+    "p_value": 0.0123,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs67890",
+    "gene_id": "GENE6",
+    "p_value": 0.0456,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs78901",
+    "gene_id": "GENE7",
+    "p_value": 0.0345,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs89012",
+    "gene_id": "GENE8",
+    "p_value": 0.0023,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs90123",
+    "gene_id": "GENE9",
+    "p_value": 0.0156,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs11234",
+    "gene_id": "GENE10",
+    "p_value": 0.0067,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs22345",
+    "gene_id": "GENE11",
+    "p_value": 0.0134,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs33456",
+    "gene_id": "GENE12",
+    "p_value": 0.0214,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs44567",
+    "gene_id": "GENE13",
+    "p_value": 0.0198,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs55678",
+    "gene_id": "GENE14",
+    "p_value": 0.0283,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs66789",
+    "gene_id": "GENE15",
+    "p_value": 0.009,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs77890",
+    "gene_id": "GENE16",
+    "p_value": 0.0334,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs88901",
+    "gene_id": "GENE17",
+    "p_value": 0.0278,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs99012",
+    "gene_id": "GENE18",
+    "p_value": 0.0412,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs12301",
+    "gene_id": "GENE19",
+    "p_value": 0.0175,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs23412",
+    "gene_id": "GENE20",
+    "p_value": 0.011,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs10101",
+    "gene_id": "GENE21",
+    "p_value": 0.0093,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs11223",
+    "gene_id": "GENE22",
+    "p_value": 0.0084,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs22334",
+    "gene_id": "GENE23",
+    "p_value": 0.015,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs33445",
+    "gene_id": "GENE24",
+    "p_value": 0.0273,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs44556",
+    "gene_id": "GENE25",
+    "p_value": 0.0114,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs55667",
+    "gene_id": "GENE26",
+    "p_value": 0.0398,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs66778",
+    "gene_id": "GENE27",
+    "p_value": 0.0294,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs77889",
+    "gene_id": "GENE28",
+    "p_value": 0.0241,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs88990",
+    "gene_id": "GENE29",
+    "p_value": 0.0021,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs99001",
+    "gene_id": "GENE30",
+    "p_value": 0.0197,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs10123",
+    "gene_id": "GENE31",
+    "p_value": 0.0305,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs11234",
+    "gene_id": "GENE32",
+    "p_value": 0.0259,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs22345",
+    "gene_id": "GENE33",
+    "p_value": 0.0147,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs33456",
+    "gene_id": "GENE34",
+    "p_value": 0.0203,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs44567",
+    "gene_id": "GENE35",
+    "p_value": 0.0211,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs55678",
+    "gene_id": "GENE36",
+    "p_value": 0.0372,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs66789",
+    "gene_id": "GENE37",
+    "p_value": 0.0189,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs77890",
+    "gene_id": "GENE38",
+    "p_value": 0.0128,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs88901",
+    "gene_id": "GENE39",
+    "p_value": 0.0145,
+    "peak_id": null,
+    "motif_id": null
+  },
+  {
+    "snp_id": "rs99012",
+    "gene_id": "GENE40",
+    "p_value": 0.0217,
+    "peak_id": null,
+    "motif_id": null
+  }
+]
