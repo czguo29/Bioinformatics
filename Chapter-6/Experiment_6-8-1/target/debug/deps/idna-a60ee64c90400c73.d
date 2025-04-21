@@ -1,0 +1,10 @@
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/libidna-a60ee64c90400c73.rmeta: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/deprecated.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/punycode.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/uts46.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/libidna-a60ee64c90400c73.rlib: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/deprecated.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/punycode.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/uts46.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/idna-a60ee64c90400c73.d: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/deprecated.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/punycode.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/uts46.rs
+
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/lib.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/deprecated.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/punycode.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.0.3/src/uts46.rs:

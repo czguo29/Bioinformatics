@@ -1,0 +1,13 @@
+[package]
+name = "Experiment_6-1-1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0"
+clap = { version = "4.4", features = ["derive"] }
+env_logger = "0.11.7"
+log = "0.4"
+rayon = "1.8"
+rust-htslib = "0.49.0"
+openssl = "0.10"

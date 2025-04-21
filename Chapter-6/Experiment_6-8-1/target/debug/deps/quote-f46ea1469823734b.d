@@ -1,0 +1,10 @@
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/libquote-f46ea1469823734b.rmeta: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/ext.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/to_tokens.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/runtime.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/libquote-f46ea1469823734b.rlib: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/ext.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/to_tokens.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/runtime.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/quote-f46ea1469823734b.d: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/ext.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/to_tokens.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/runtime.rs
+
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/lib.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/ext.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/to_tokens.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-0.6.13/src/runtime.rs:

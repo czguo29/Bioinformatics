@@ -1,0 +1,10 @@
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/liblog-ff97d2b12ce05993.rmeta: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/liblog-ff97d2b12ce05993.rlib: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/log-ff97d2b12ce05993.d: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs:

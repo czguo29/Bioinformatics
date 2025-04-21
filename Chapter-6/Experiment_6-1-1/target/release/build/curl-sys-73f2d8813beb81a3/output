@@ -1,0 +1,305 @@
+cargo:rerun-if-changed=curl
+cargo:rustc-check-cfg=cfg(libcurl_vendored,link_libnghttp2,link_libz,link_openssl,)
+cargo:root=C:\Users\Christyane Zabdi\Downloads\CZ-UI S2\Sem 2\BGVR\Chapter 6\Experiment_6-1-1\target\release\build\curl-sys-73f2d8813beb81a3\out
+cargo:include=C:\Users\Christyane Zabdi\Downloads\CZ-UI S2\Sem 2\BGVR\Chapter 6\Experiment_6-1-1\target\release\build\curl-sys-73f2d8813beb81a3\out\include
+cargo:static=1
+cargo:rustc-cfg=libcurl_vendored
+cargo:rustc-cfg=link_libz
+OPT_LEVEL = Some(3)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\Christyane Zabdi\Downloads\CZ-UI S2\Sem 2\BGVR\Chapter 6\Experiment_6-1-1\target\release\deps;C:\Users\Christyane Zabdi\Downloads\CZ-UI S2\Sem 2\BGVR\Chapter 6\Experiment_6-1-1\target\release;C:\Users\Christyane Zabdi\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Users\Christyane Zabdi\anaconda3\condabin;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Oracle\VirtualBox;C:\Python310\Scripts\;C:\Python310\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\sqlite;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\tools\gsudo\Current;C:\Program Files\Docker\Docker\resources\bin;%JAVA_HOME%\bin;C:\Program Files\nodejs\;C:\Program Files\MEGA11;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\Git LFS;C:\Users\Christyane Zabdi\.cargo\bin;C:\Users\Christyane Zabdi\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Christyane Zabdi\AppData\Local\Programs\Python\Python311\;C:\Program Files\Oracle\VirtualBox;C:\Users\Christyane Zabdi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.1\bin;;C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2015;C:\sqlite;C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.3.4\bin;;C:\Users\Christyane Zabdi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\Users\Christyane Zabdi\AppData\Roaming\npm;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files\OpenSSL-Win64\lib;C:\Program Files\OpenSSL-Win64\include;C:\ProgramData\Christyane Zabdi\GitHubDesktop\bin;C:\Users\Christyane Zabdi\AppData\Local\GitHubDesktop\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(false)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+CARGO_ENCODED_RUSTFLAGS = Some()
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+asyn-thread.c
+altsvc.c
+base64.c
+bufq.c
+bufref.c
+cfilters.c
+cf-h1-proxy.c
+cf-haproxy.c
+cf-https-connect.c
+cf-socket.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+conncache.c
+connect.c
+content_encoding.c
+cookie.c
+curl_addrinfo.c
+curl_get_line.c
+curl_memrchr.c
+curl_range.c
+curl_sha512_256.c
+curl_threads.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+curl_trc.c
+cw-out.c
+doh.c
+dynbuf.c
+dynhds.c
+easy.c
+escape.c
+file.c
+fileinfo.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+fopen.c
+formdata.c
+getenv.c
+getinfo.c
+hash.c
+headers.c
+hmac.c
+hostasyn.c
+hostip.c
+hostip6.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+hsts.c
+http.c
+http1.c
+http_aws_sigv4.c
+http_chunks.c
+http_digest.c
+http_proxy.c
+idn.c
+if2ip.c
+inet_ntop.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+inet_pton.c
+llist.c
+md5.c
+mime.c
+mprintf.c
+macos.c
+mqtt.c
+multi.c
+netrc.c
+nonblock.c
+noproxy.c
+parsedate.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+progress.c
+rand.c
+rename.c
+request.c
+select.c
+sendf.c
+sha256.c
+setopt.c
+share.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+slist.c
+socks.c
+socketpair.c
+speedcheck.c
+splay.c
+strcase.c
+strdup.c
+strparse.c
+strerror.c
+strtok.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+strtoofft.c
+timeval.c
+transfer.c
+url.c
+urlapi.c
+version.c
+vauth.c
+digest.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+curl_msh3.c
+curl_ngtcp2.c
+curl_osslq.c
+curl_quiche.c
+vquic-tls.c
+vquic.c
+hostcheck.c
+keylog.c
+vtls.c
+warnless.c
+vtls_scache.c
+timediff.c
+ws.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+ftp.c
+curl_fnmatch.c
+ftplistparser.c
+pingpong.c
+http_negotiate.c
+curl_sspi.c
+socks_sspi.c
+spnego_sspi.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+schannel.c
+vauth.c
+x509asn1.c
+schannel_verify.c
+bufref.c
+system_win32.c
+version_win32.c
+digest_sspi.c
+curl_multibyte.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+Replacing C:\Users\Christyane Zabdi\Downloads\CZ-UI S2\Sem 2\BGVR\Chapter 6\Experiment_6-1-1\target\release\build\curl-sys-73f2d8813beb81a3\out\build\240958fc840aa3df-vauth.o
+Replacing C:\Users\Christyane Zabdi\Downloads\CZ-UI S2\Sem 2\BGVR\Chapter 6\Experiment_6-1-1\target\release\build\curl-sys-73f2d8813beb81a3\out\build\53da4157be79b190-bufref.o
+cargo:rustc-link-lib=static=curl
+cargo:rustc-link-search=native=C:\Users\Christyane Zabdi\Downloads\CZ-UI S2\Sem 2\BGVR\Chapter 6\Experiment_6-1-1\target\release\build\curl-sys-73f2d8813beb81a3\out\build
+cargo:rustc-link-lib=ws2_32
+cargo:rustc-link-lib=crypt32

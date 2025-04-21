@@ -1,0 +1,11 @@
+[package]
+name = "Experiment_6-8-1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0"
+clap = "4.0"
+log = "0.4"
+env_logger = "0.9"     
+rust-htslib = "0.35"

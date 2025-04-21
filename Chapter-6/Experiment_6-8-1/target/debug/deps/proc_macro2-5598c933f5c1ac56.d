@@ -1,0 +1,10 @@
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/libproc_macro2-5598c933f5c1ac56.rmeta: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/libproc_macro2-5598c933f5c1ac56.rlib: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/mnt/c/Users/Christyane Zabdi/Downloads/CZ-UI S2/Sem 2/BGVR/Chapter 6/Experiment_6-8-1/target/debug/deps/proc_macro2-5598c933f5c1ac56.d: /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs:
+/home/hristyane_abdi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs:
